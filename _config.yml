@@ -1,4 +1,4 @@
-title:            Notepad
+title:            Balvinder's Blog
 description:      "Blogging is fun"
 logo:             logo.png
 disqus_shortname: balrawat
@@ -20,15 +20,15 @@ owner:
   twitter:        balvinder_linux
   facebook:       balvinder.rawat
   github:         balrawat      
-  instagram:      halrawat
+ # instagram:      halrawat
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/u/0/+BalvinderRawat
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944
-google_verify:      
+#google_analytics:   UA-39365944
+#google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+#bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
