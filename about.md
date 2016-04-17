@@ -12,7 +12,7 @@ chart: true
 published: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/balvinder.jpg" alt="Balvinder Singh Rawat">
+  <img src="{{ site.url }}/images/balvinder.png" alt="Balvinder Singh Rawat">
   <figcaption>Balvinder Singh Rawat</figcaption>
 </figure>
 
