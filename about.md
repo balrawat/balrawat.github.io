@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Hossain Mohd Faysal
+title: Balvinder Singh Rawat
 tags: 
   - Hossain
   - Mohd
