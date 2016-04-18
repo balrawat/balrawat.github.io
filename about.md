@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Balvinder Singh Rawat
+title: Balvinder S Rawat
 tags: 
   - Balvinder
-  - S
+  - Singh
   - Rawat
   - balrawat
 imagefeature: fourseasons.jpg
