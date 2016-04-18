@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Balvinder S Rawat
+title: Balvinder S. Rawat
 tags: 
   - Balvinder
   - Singh
