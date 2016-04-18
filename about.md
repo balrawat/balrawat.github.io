@@ -3,10 +3,10 @@ layout: page
 permalink: /about/index.html
 title: Balvinder Singh Rawat
 tags: 
-  - Hossain
-  - Mohd
-  - Faysal
-  - hmfaysal
+  - Balvinder
+  - S
+  - Rawat
+  - balrawat
 imagefeature: fourseasons.jpg
 chart: true
 published: true
